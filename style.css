@@ -13,6 +13,7 @@ body{
 	font-family: 'Josefin Sans', sans-serif;
 	display: grid;
 	grid-auto-flow: row;
+	overlow-x: hidden;
 }
 .wrapper_first{
 	position: relative;
